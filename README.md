@@ -5,6 +5,10 @@
 Skovokh Translator is an application for translating and generating text images for an artificial language called Skovokh.
 Skovokh was created by @Estrect. The translator was made by me.
 
+This is not the original repository.
+To make it work you will to copy the: Ref, Img and lang folders from the .zip in the releases tab.
+Paste them in debug/release in the folder where the .exe is situated.
+
 The Skovokh Translator supports:
 
 - Translation of english to latin Skovokh and legit Skovokh.
