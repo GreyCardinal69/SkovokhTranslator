@@ -17,6 +17,17 @@ The Skovokh Translator supports:
 - Supports image generation with 3 modes, such as 10, 20 and 30 letters a line.
 - A seperate form for adding new words and translations on the run.
 
+Here are some generated images with Skovokh text of varying length and size.
+
+![FinalImage3](https://user-images.githubusercontent.com/50517794/236921027-c27a7164-25ac-4968-8603-ee2dc4fdf310.jpg)
+
+![FinalImage2](https://user-images.githubusercontent.com/50517794/236921036-b28c123c-4110-4824-8f90-4563406517b0.jpg)
+
+![FinalImage](https://user-images.githubusercontent.com/50517794/236921037-3f5ad1da-75ae-4f4a-9386-d710f69fb515.jpg)
+
+![FinalImage5](https://user-images.githubusercontent.com/50517794/236921039-1a9c1915-4008-4f84-a027-605c917ca198.jpg)
+
+
 The application's main window looks like this:
 
 ![Screenshot 2022-02-26 180205](https://user-images.githubusercontent.com/50517794/155846000-207a6376-51c8-43d5-a3f2-52356376a760.png)
@@ -55,4 +66,3 @@ How to use it:
 
 Write the english word under "Input ( English ) ", then the latin Skovokh version of it under "Input ( Latin Skovokh )".
 If the input Latin Skovokh text is invalid a notification will appear, saving the translation to dictionary in that case is impossible. If the Latin Skovokh is translated without issues its legit Skovokh version will appear under "Output ( Skovokh )". To add the translations to the dictionaries simply press "Save". The words are added dynamically, there is no reason to restart the application.
-
